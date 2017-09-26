@@ -9,4 +9,5 @@ ninja
 DESTDIR="DESTINATION" ninja install
 ```
 **BUILD BINARIES FOR WINDOWS**
+
 Use build-win64.sh (or build-win32.sh) and distribute the tapocalc-win64 (or tapocalc-win32) folder in a zip archive.
